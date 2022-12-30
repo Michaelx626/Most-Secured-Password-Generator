@@ -12,7 +12,7 @@
 
 <h2 align="center"> Screenshots </h2>
 
-![text](https://github.com/Michaelx626/Most-Secure-Password-Generator/blob/main/assets/CSS/Screen%20Shot%202022-12-22%20at%2011.13.55%20PM.png).
+![text](https://github.com/Michaelx626/Most-Secured-Password-Generator/blob/main/assets/CSS/Screen%20Shot%202022-12-22%20at%2011.13.55%20PM.png).
 
 <h2 align="center">  Credit </h2>
 <p align="center"> N/A
