@@ -14,7 +14,7 @@ function submitPassword(){
     if (numberChars === null){
         return;
     }
-    if ((numberChars < 8 || numberChars > 128) || numberChars !== Number.isNan){
+    if ((numberChars < 8 || numberChars > 128) || isNaN(numberChars)){
         alert("Please try again!");
         return submitPassword();
     } else {
