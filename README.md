@@ -8,7 +8,7 @@
 
 <h2 align="center"> Usage </h2>
 <p align="center"> You can access my project, Secure Password Generator, by simply clicking on this highlighted text. </p>
-<p align="center"> <a href="https://michaelx626.github.io/Most-Secure-Password-Generator/index.html" target="_blank"> Here </a> </p>
+<p align="center"> <a href="https://michaelx626.github.io/Most-Secured-Password-Generator/index.html" target="_blank"> Here </a> </p>
 
 <h2 align="center"> Screenshots </h2>
 
